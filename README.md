@@ -1,5 +1,7 @@
 # skyview_app (group project)
 
+![Alt text](/skyview_app/SkyView.png?raw=true "Optional Title")
+
 Description:
 
 Created an interactive sky chart that displays the positions of stars, planets, and deep sky objects for a given position and time. Provided some basic knowledge of astronomy, some trigonometry. 
