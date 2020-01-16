@@ -1,4 +1,4 @@
-# skyview_app (group project)
+# Sky View application in Java & JavaFX (Group project in a team of four)
 
 ![Alt text](/SkyView.png?raw=true "Optional Title")
 
