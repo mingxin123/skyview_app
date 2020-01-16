@@ -1,6 +1,6 @@
 # skyview_app (group project)
 
-![Alt text](/skyview_app/SkyView.png?raw=true "Optional Title")
+![Alt text](/SkyView.png?raw=true "Optional Title")
 
 Description:
 
